@@ -10,3 +10,6 @@ Following are the instructions to compile & run the game.
     2. Navigate to the directory using cd Hangman-Game
     3. Compile the program using g++ main.cpp .\src\GameManager.cpp -std=c++14 -o main
     4. Finally run by using main
+
+#Auther 
+[Aditya Birajdar](https://github.com/ifskelton69)
