@@ -6,7 +6,7 @@ In the game of Hangman, the computer chooses a word at random from a given list 
 
 Following are the instructions to compile & run the game.
 
-    1. Clone this repository into a directory using git clone https://github.com/Asteriskkkk/Hangman-game.git .
+    1. Clone this repository into a directory using git clone https://github.com/ifskelton69/Hangman-game.git .
     2. Navigate to the directory using cd Hangman-Game
     3. Compile the program using g++ main.cpp .\src\GameManager.cpp -std=c++14 -o main
     4. Finally run by using main
